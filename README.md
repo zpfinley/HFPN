@@ -5,7 +5,7 @@
 
     The VGGSound-AVEL100k dataset is available [here](https://drive.google.com/drive/folders/1en1dks1GYiGaDS9Ar-QtJmmyoOdzEsQj?usp=sharing).
 
-- ### 2 Create environment and installation package
+- ### 2 Create environment and install package
   ```
   conda env create -f environment.yml
   ```
